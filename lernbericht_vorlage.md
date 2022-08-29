@@ -12,11 +12,13 @@ Ich habe gelernt, wie ich in jsf eine andere xhtml-Seite verlinken kann.
 ## Beschreibung
 
 ```Java
-  
-  
   public String weiterleitung() {
         return "schritt1.xhtml";
   }
+```
+
+```xhtml
+  <h:link value="Schritt 1" outcome="#{SitzVer.weiterleitung()}"/>
 ```
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
