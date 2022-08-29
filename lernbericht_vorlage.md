@@ -20,6 +20,7 @@ Ich habe gelernt, wie ich in jsf eine andere xhtml-Seite verlinken kann.
 ```xhtml
   <h:link value="Schritt 1" outcome="#{SitzVer.weiterleitung()}"/>
 ```
+![jsf](https://user-images.githubusercontent.com/74292626/187196112-a2fcbd66-e770-48fb-bf94-9ffa670ad3b4.gif)
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
